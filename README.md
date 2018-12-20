@@ -1,3 +1,3 @@
 # playing-with-git
 
-### my first git repository ###
+### My first git repository ###
